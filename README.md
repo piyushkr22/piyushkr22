@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piyush Kumar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Frontend Technology
-- 💞️ I’m currently looking for Internship Opportunities 
+- 💞️ I’m currently looking for Frontend Developer Opportunities 
 - 📫 How to reach me : 
 Mail me on : piyushkr2022@gmail.com
 
