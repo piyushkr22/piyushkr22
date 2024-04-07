@@ -1,6 +1,8 @@
-![MasterHead](
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
-<br><br>)
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="600">
+</p>
+<br><br>
+
 <br>
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <br>
