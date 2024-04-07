@@ -1,4 +1,6 @@
-![MasterHead](header.gif)
+![MasterHead](
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>)
 <br>
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <br>
@@ -15,7 +17,7 @@
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/piyushkr22/)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/piyushkr22)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="40" height="40"/></a>
 
 
 
