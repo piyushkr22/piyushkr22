@@ -18,12 +18,3 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/piyushkr22)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="40" height="40"/></a>
-
-
-
-<br><br>
-
-<!---
-piyushkr21/piyushkr21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
