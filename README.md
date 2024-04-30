@@ -17,4 +17,4 @@
 
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/piyushkr22)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/piyushkr22"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="40" height="40"/></a>
