@@ -6,14 +6,13 @@
 <br>
 
 - 👀 I’m interested in Coding
-- 🌱 I’m currently looking for Frontend Developer Opportunities
 - 📫 Reach me at [**piyushkr2022@gmail.com**](mailto:piyushkr2022@gmail.com)</a>
 
 <br>
 
 > **I am presently employed as a Graduate Engineering Trainee (GET) within the AWS EOPS Team at HCL.**
 
-> **A dedicated Front-end Developer with proficiency across a spectrum of technologies, encompassing HTML, CSS, Tailwind CSS, JavaScript, and React.**
+> **A dedicated Developer with proficiency across a spectrum of technologies, encompassing Java , OOPs , SQL , Git , HTML, CSS, JavaScript and React.**
 
 
 ## Connect with me:
