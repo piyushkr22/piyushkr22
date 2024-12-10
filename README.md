@@ -10,9 +10,8 @@
 
 <br>
 
-> **I am presently employed as a Graduate Engineering Trainee (GET) within the AWS EOPS Team at HCL.**
+> **Graduate Engineer with 1 year of experience optimizing cloud infrastructure and developing scalable web applications. Proficient in Data Structures, Web Technologies, and Databases, with hands-on experience in Cloud services.**
 
-> **A dedicated Developer with proficiency across a spectrum of technologies, encompassing Java , OOPs , SQL , Git , HTML, CSS, JavaScript and React.**
 
 
 ## Connect with me:
