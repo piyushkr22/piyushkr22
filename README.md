@@ -10,7 +10,7 @@
 
 <br>
 
-> **Graduate Engineer with 1 year of experience optimizing cloud infrastructure and developing scalable web applications. Proficient in Data Structures, Web Technologies, and Databases, with hands-on experience in Cloud services.**
+> **Graduate Engineer with experience in database optimization and full-stack web application development. Proficient in Java, React, MySQL, and cloud platforms (AWS & Azure), with a strong foundation in Data Structures and Algorithms.**
 
 
 
