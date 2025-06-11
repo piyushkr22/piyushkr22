@@ -13,6 +13,3 @@
 > **Graduate Engineer with experience in database optimization and full-stack web application development. Proficient in Java, React, MySQL, and cloud platforms (AWS & Azure), with a strong foundation in Data Structures and Algorithms.**
 
 
-
-## Connect with me:
-<a href="https://www.linkedin.com/in/piyushkr22"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="40" height="40"/></a>
