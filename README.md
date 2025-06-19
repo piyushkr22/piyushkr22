@@ -10,6 +10,8 @@
 
 <br>
 
-> **Graduate Engineer with experience in database optimization and full-stack web application development. Proficient in Java, React, MySQL, and cloud platforms (AWS & Azure), with a strong foundation in Data Structures and Algorithms.**
+> **Software Consultant with over 1.5 years of experience in building modern, high-performance web applications using React and TypeScript.**
+
+> **Currently involved in developing in-house products and features that enhance core functionality and streamline workflows within the organization.**
 
 
