@@ -10,6 +10,6 @@
 
 <br>
 
-> **Frontend Developer with nearly 2 years of experience building scalable, user-focused web applications. Skilled in Java, JavaScript, React, and MySQL, with a strong background in designing responsive UIs and optimizing databases.**
+> **Software Consultant with nearly 2 years of experience building scalable, user-focused web applications. Skilled in Java, JavaScript, React, and MySQL, with expertise in designing responsive UIs and optimizing databases.**
 
 
