@@ -10,8 +10,6 @@
 
 <br>
 
-> **Software Consultant with over 1.5 years of experience in building modern, high-performance web applications using React and TypeScript.**
-
-> **Currently involved in developing in-house products and features that enhance core functionality and streamline workflows within the organization.**
+> **Frontend Developer with nearly 2 years of experience building scalable, user-focused web applications. Skilled in Java, JavaScript, React, and MySQL, with a strong background in designing responsive UIs and optimizing databases.**
 
 
