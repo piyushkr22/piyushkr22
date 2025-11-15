@@ -10,6 +10,6 @@
 
 <br>
 
-> **Software Consultant with nearly 2 years of experience building scalable, user-focused web applications. Skilled in Java, JavaScript, React, and MySQL, with expertise in designing responsive UIs and optimizing databases.**
+> **React Developer with 2 years of experience delivering scalable, performant, and user-centric web applications with a strong focus on clean UI, modern architecture, and seamless UX.**
 
 
