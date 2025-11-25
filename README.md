@@ -8,8 +8,4 @@
 - 👀 I’m interested in Coding
 - 📫 Reach me at [**piyushkr2022@gmail.com**](mailto:piyushkr2022@gmail.com)</a>
 
-<br>
-
-> **React Developer with 2 years of experience delivering scalable, performant, and user-centric web applications with a strong focus on clean UI, modern architecture, and seamless UX.**
-
 
